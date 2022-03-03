@@ -1,4 +1,4 @@
-var=
+
 
 def toyou(x):
     return f"hi {x}"
